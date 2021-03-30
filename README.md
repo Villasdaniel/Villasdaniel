@@ -3,10 +3,11 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2> Hello...
   
   Welcome to my GitHub
+</h1>
   
-  <p><img align='left' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500"></p>
+  <img align='left' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500">
 
-  I hope that will be of interest
+ <h1> I hope that will be of interest
   
   here you will find something about my work
 </h1>
