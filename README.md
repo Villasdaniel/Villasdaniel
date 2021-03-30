@@ -2,20 +2,18 @@
 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2> Hello...
   
-  Welcome to my GitHub
+<h2>Welcome to my GitHub</h2>
   
   <img align='left' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500">
   
-  I hope that will be of interest
+<h2>I hope that will be of interest
   
-  here you will find something about my work
-</h1>
+  here you will find something about my work</h2>
 
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Villasdaniel)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Villasdaniel)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Villasdaniel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Villasdaniel&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
