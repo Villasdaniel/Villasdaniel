@@ -6,7 +6,7 @@ Hello...
   
 Welcome to my GitHub
   
-<img align='left' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500">
+<img align='center' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500">
   
 I hope that will be of interest
   
