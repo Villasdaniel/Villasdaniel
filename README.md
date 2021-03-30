@@ -4,14 +4,16 @@
   
   Welcome to my GitHub
   
+  
+  <img align='left' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500">
+</p>
+
+  
   I hope that will be of interest
   
   here you will find something about my work
 </h1>
 
-
-  <img align='left' src="https://experienciajoven.com/wp-content/uploads/2020/11/programacion_gamer_001.gif" width="500">
-</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Villasdaniel)](https://github.com/anuraghazra/github-readme-stats)
