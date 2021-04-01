@@ -14,7 +14,11 @@ I hope that will be of interest
   
 here you will find something about my work
 
-My <a href="https://www.linkedin.com/in/danielvillasaldarriaga/">Linked in</a>
+<h3 align="center">Where to find me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielvillasaldarriaga" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <!--My <a href="https://twitter.com/svilladaniel">Twitter</a>
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Villasdaniel)](https://github.com/anuraghazra/github-readme-stats)
