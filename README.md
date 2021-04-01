@@ -14,8 +14,8 @@ I hope that will be of interest
   
 here you will find something about my work
 
-<h3 align="center">Where to find me</h3>
-<p align="center">
+<h3 align="left">Find me in</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/danielvillasaldarriaga" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
